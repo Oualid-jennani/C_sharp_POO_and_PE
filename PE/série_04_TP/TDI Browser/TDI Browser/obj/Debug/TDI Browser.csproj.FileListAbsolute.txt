@@ -1,0 +1,20 @@
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\bin\Debug\TDI Browser.exe.config
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\bin\Debug\TDI Browser.exe
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\bin\Debug\TDI Browser.pdb
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\obj\Debug\TDI Browser.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\obj\Debug\TDI_Browser.Form1.resources
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\obj\Debug\TDI_Browser.Properties.Resources.resources
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\obj\Debug\TDI Browser.csproj.GenerateResource.Cache
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\obj\Debug\TDI Browser.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\obj\Debug\TDI Browser.exe
+C:\Users\Walid Jennani\source\repos\TDI Browser\TDI Browser\obj\Debug\TDI Browser.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\bin\Debug\TDI Browser.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\bin\Debug\TDI Browser.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\bin\Debug\TDI Browser.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\obj\Debug\TDI Browser.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\obj\Debug\TDI_Browser.Form1.resources
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\obj\Debug\TDI_Browser.Properties.Resources.resources
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\obj\Debug\TDI Browser.csproj.GenerateResource.Cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\obj\Debug\TDI Browser.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\obj\Debug\TDI Browser.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TDI Browser\TDI Browser\obj\Debug\TDI Browser.pdb

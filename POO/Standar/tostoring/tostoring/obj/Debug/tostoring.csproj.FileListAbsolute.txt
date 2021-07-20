@@ -1,0 +1,7 @@
+c:\users\walid jennani\source\repos\tostoring\tostoring\bin\Debug\tostoring.exe.config
+c:\users\walid jennani\source\repos\tostoring\tostoring\bin\Debug\tostoring.exe
+c:\users\walid jennani\source\repos\tostoring\tostoring\bin\Debug\tostoring.pdb
+c:\users\walid jennani\source\repos\tostoring\tostoring\obj\Debug\tostoring.csproj.CoreCompileInputs.cache
+c:\users\walid jennani\source\repos\tostoring\tostoring\obj\Debug\tostoring.exe
+c:\users\walid jennani\source\repos\tostoring\tostoring\obj\Debug\tostoring.pdb
+c:\users\walid jennani\source\repos\tostoring\tostoring\obj\Debug\tostoring.csprojResolveAssemblyReference.cache

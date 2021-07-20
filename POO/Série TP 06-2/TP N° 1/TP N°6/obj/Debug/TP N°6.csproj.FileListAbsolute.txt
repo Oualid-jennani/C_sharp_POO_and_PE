@@ -1,0 +1,21 @@
+c:\users\walid jennani\source\repos\TP N°6\TP N°6\obj\Debug\TP N°6.csprojResolveAssemblyReference.cache
+c:\users\walid jennani\source\repos\TP N°6\TP N°6\obj\Debug\TP N°6.csproj.CoreCompileInputs.cache
+c:\users\walid jennani\source\repos\TP N°6\TP N°6\bin\Debug\TP N°6.exe.config
+c:\users\walid jennani\source\repos\TP N°6\TP N°6\bin\Debug\TP N°6.exe
+c:\users\walid jennani\source\repos\TP N°6\TP N°6\bin\Debug\TP N°6.pdb
+c:\users\walid jennani\source\repos\TP N°6\TP N°6\obj\Debug\TP N°6.exe
+c:\users\walid jennani\source\repos\TP N°6\TP N°6\obj\Debug\TP N°6.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\TP N°6\TP N°6\bin\Debug\TP N°6.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\TP N°6\TP N°6\bin\Debug\TP N°6.exe
+C:\Users\Walid Jennani\Contacts\Desktop\TP N°6\TP N°6\bin\Debug\TP N°6.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\TP N°6\TP N°6\obj\Debug\TP N°6.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\TP N°6\TP N°6\obj\Debug\TP N°6.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\TP N°6\TP N°6\obj\Debug\TP N°6.exe
+C:\Users\Walid Jennani\Contacts\Desktop\TP N°6\TP N°6\obj\Debug\TP N°6.pdb
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 1\TP N°6\bin\Debug\TP N°6.exe.config
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 1\TP N°6\bin\Debug\TP N°6.exe
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 1\TP N°6\bin\Debug\TP N°6.pdb
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 1\TP N°6\obj\Debug\TP N°6.csprojAssemblyReference.cache
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 1\TP N°6\obj\Debug\TP N°6.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 1\TP N°6\obj\Debug\TP N°6.exe
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 1\TP N°6\obj\Debug\TP N°6.pdb

@@ -1,0 +1,7 @@
+C:\Users\Walid Jennani\source\repos\My Class\My Class\bin\Debug\My Class.exe.config
+C:\Users\Walid Jennani\source\repos\My Class\My Class\bin\Debug\My Class.exe
+C:\Users\Walid Jennani\source\repos\My Class\My Class\bin\Debug\My Class.pdb
+C:\Users\Walid Jennani\source\repos\My Class\My Class\obj\Debug\My Class.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\source\repos\My Class\My Class\obj\Debug\My Class.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\source\repos\My Class\My Class\obj\Debug\My Class.exe
+C:\Users\Walid Jennani\source\repos\My Class\My Class\obj\Debug\My Class.pdb

@@ -1,0 +1,20 @@
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\bin\Debug\TP N° 3 ex2.exe.config
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\bin\Debug\TP N° 3 ex2.exe
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\bin\Debug\TP N° 3 ex2.pdb
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.csprojResolveAssemblyReference.cache
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP_N__3_ex2.Form1.resources
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP_N__3_ex2.Properties.Resources.resources
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.csproj.GenerateResource.Cache
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.csproj.CoreCompileInputs.cache
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.exe
+c:\users\walid jennani\source\repos\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\bin\Debug\TP N° 3 ex2.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\bin\Debug\TP N° 3 ex2.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\bin\Debug\TP N° 3 ex2.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP_N__3_ex2.Form1.resources
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP_N__3_ex2.Properties.Resources.resources
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.csproj.GenerateResource.Cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\Série_03_TP\TP N° 3 ex2\TP N° 3 ex2\obj\Debug\TP N° 3 ex2.pdb

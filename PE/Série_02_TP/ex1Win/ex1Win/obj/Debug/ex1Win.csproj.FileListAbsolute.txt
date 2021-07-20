@@ -1,0 +1,37 @@
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\bin\Debug\ex1Win.exe.config
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\bin\Debug\ex1Win.exe
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\bin\Debug\ex1Win.pdb
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\obj\Debug\ex1Win.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\obj\Debug\ex1Win.Form1.resources
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\obj\Debug\ex1Win.Properties.Resources.resources
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\obj\Debug\ex1Win.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\obj\Debug\ex1Win.exe
+C:\Users\Hp\Desktop\C  Charp\ex1Win\ex1Win\obj\Debug\ex1Win.pdb
+G:\ex1Win\ex1Win\bin\Debug\ex1Win.exe.config
+G:\ex1Win\ex1Win\obj\Debug\ex1Win.exe
+G:\ex1Win\ex1Win\obj\Debug\ex1Win.pdb
+G:\ex1Win\ex1Win\bin\Debug\ex1Win.exe
+G:\ex1Win\ex1Win\bin\Debug\ex1Win.pdb
+G:\ex1Win\ex1Win\obj\Debug\ex1Win.csprojResolveAssemblyReference.cache
+G:\ex1Win\ex1Win\obj\Debug\ex1Win.Form1.resources
+G:\ex1Win\ex1Win\obj\Debug\ex1Win.Properties.Resources.resources
+G:\ex1Win\ex1Win\obj\Debug\ex1Win.csproj.GenerateResource.Cache
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\bin\Debug\ex1Win.exe.config
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.exe
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.pdb
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\bin\Debug\ex1Win.exe
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\bin\Debug\ex1Win.pdb
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.csprojResolveAssemblyReference.cache
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.Form1.resources
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.Properties.Resources.resources
+C:\Users\TDI102\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.csproj.GenerateResource.Cache
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\bin\Debug\ex1Win.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\bin\Debug\ex1Win.exe
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\bin\Debug\ex1Win.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.Form1.resources
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.Properties.Resources.resources
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.csproj.GenerateResource.Cache
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.exe
+C:\Users\Walid Jennani\Contacts\Desktop\ex1Win\ex1Win\obj\Debug\ex1Win.pdb

@@ -1,0 +1,10 @@
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\bin\Debug\TP1_S7.exe.config
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\bin\Debug\TP1_S7.exe
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\bin\Debug\TP1_S7.pdb
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\obj\Debug\TP1_S7.csprojResolveAssemblyReference.cache
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\obj\Debug\TP1_S7.Form1.resources
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\obj\Debug\TP1_S7.Properties.Resources.resources
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\obj\Debug\TP1_S7.csproj.GenerateResource.Cache
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\obj\Debug\TP1_S7.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\obj\Debug\TP1_S7.exe
+C:\Users\MOHAMMED\source\repos\TP1_S7\TP1_S7\obj\Debug\TP1_S7.pdb

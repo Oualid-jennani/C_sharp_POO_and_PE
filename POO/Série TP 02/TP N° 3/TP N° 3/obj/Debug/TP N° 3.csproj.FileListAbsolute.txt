@@ -1,0 +1,21 @@
+C:\Users\Walid Jennani\source\repos\TP N° 3\TP N° 3\bin\Debug\TP N° 3.exe.config
+C:\Users\Walid Jennani\source\repos\TP N° 3\TP N° 3\bin\Debug\TP N° 3.exe
+C:\Users\Walid Jennani\source\repos\TP N° 3\TP N° 3\bin\Debug\TP N° 3.pdb
+C:\Users\Walid Jennani\source\repos\TP N° 3\TP N° 3\obj\Debug\TP N° 3.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\source\repos\TP N° 3\TP N° 3\obj\Debug\TP N° 3.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\source\repos\TP N° 3\TP N° 3\obj\Debug\TP N° 3.exe
+C:\Users\Walid Jennani\source\repos\TP N° 3\TP N° 3\obj\Debug\TP N° 3.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\bin\Debug\TP N° 3.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\bin\Debug\TP N° 3.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\bin\Debug\TP N° 3.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\bin\Debug\TP N° 3.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\bin\Debug\TP N° 3.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\bin\Debug\TP N° 3.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Language C#\Exercice language C#\Série TP 02\TP N° 3\TP N° 3\obj\Debug\TP N° 3.pdb

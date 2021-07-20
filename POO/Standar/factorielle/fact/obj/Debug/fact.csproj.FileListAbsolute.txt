@@ -1,0 +1,7 @@
+C:\Users\Walid Jennani\source\repos\factorielle\fact\bin\Debug\fact.exe.config
+C:\Users\Walid Jennani\source\repos\factorielle\fact\bin\Debug\fact.exe
+C:\Users\Walid Jennani\source\repos\factorielle\fact\bin\Debug\fact.pdb
+C:\Users\Walid Jennani\source\repos\factorielle\fact\obj\Debug\fact.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\source\repos\factorielle\fact\obj\Debug\fact.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\source\repos\factorielle\fact\obj\Debug\fact.exe
+C:\Users\Walid Jennani\source\repos\factorielle\fact\obj\Debug\fact.pdb

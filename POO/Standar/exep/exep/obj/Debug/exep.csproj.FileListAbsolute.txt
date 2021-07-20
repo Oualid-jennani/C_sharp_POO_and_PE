@@ -1,0 +1,7 @@
+C:\Users\Walid Jennani\Desktop\exep\exep\bin\Debug\exep.exe.config
+C:\Users\Walid Jennani\Desktop\exep\exep\bin\Debug\exep.exe
+C:\Users\Walid Jennani\Desktop\exep\exep\bin\Debug\exep.pdb
+C:\Users\Walid Jennani\Desktop\exep\exep\obj\Debug\exep.csprojAssemblyReference.cache
+C:\Users\Walid Jennani\Desktop\exep\exep\obj\Debug\exep.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Desktop\exep\exep\obj\Debug\exep.exe
+C:\Users\Walid Jennani\Desktop\exep\exep\obj\Debug\exep.pdb

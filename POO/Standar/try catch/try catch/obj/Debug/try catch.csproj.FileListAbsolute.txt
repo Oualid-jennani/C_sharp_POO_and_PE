@@ -1,0 +1,7 @@
+c:\users\walid jennani\source\repos\try catch\try catch\bin\Debug\try catch.exe.config
+c:\users\walid jennani\source\repos\try catch\try catch\bin\Debug\try catch.exe
+c:\users\walid jennani\source\repos\try catch\try catch\bin\Debug\try catch.pdb
+c:\users\walid jennani\source\repos\try catch\try catch\obj\Debug\try catch.csprojResolveAssemblyReference.cache
+c:\users\walid jennani\source\repos\try catch\try catch\obj\Debug\try catch.csproj.CoreCompileInputs.cache
+c:\users\walid jennani\source\repos\try catch\try catch\obj\Debug\try catch.exe
+c:\users\walid jennani\source\repos\try catch\try catch\obj\Debug\try catch.pdb

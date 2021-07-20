@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\bin\Debug\S7_TP_1.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\bin\Debug\S7_TP_1.exe
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\bin\Debug\S7_TP_1.pdb
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\obj\Debug\S7_TP_1.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\obj\Debug\S7_TP_1.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\obj\Debug\S7_TP_1.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\obj\Debug\S7_TP_1.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\obj\Debug\S7_TP_1.exe
+c:\users\pc\documents\visual studio 2015\Projects\S7\S7_TP_1\obj\Debug\S7_TP_1.pdb

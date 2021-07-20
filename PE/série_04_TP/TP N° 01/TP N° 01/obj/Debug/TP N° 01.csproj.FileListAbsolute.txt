@@ -1,0 +1,30 @@
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\bin\Debug\TP N° 01.exe.config
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\bin\Debug\TP N° 01.exe
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\bin\Debug\TP N° 01.pdb
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\obj\Debug\TP_N__01.Form1.resources
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\obj\Debug\TP_N__01.Properties.Resources.resources
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csproj.GenerateResource.Cache
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\obj\Debug\TP N° 01.exe
+C:\Users\Walid Jennani\source\repos\TP N° 01\TP N° 01\obj\Debug\TP N° 01.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\bin\Debug\TP N° 01.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\bin\Debug\TP N° 01.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\bin\Debug\TP N° 01.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP_N__01.Form1.resources
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP_N__01.Properties.Resources.resources
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csproj.GenerateResource.Cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.exe
+C:\Users\Walid Jennani\Contacts\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.pdb
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\bin\Debug\TP N° 01.exe.config
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\bin\Debug\TP N° 01.exe
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\bin\Debug\TP N° 01.pdb
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP_N__01.Form1.resources
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP_N__01.Properties.Resources.resources
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csproj.GenerateResource.cache
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.exe
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\PE\série_04_TP\TP N° 01\TP N° 01\obj\Debug\TP N° 01.pdb

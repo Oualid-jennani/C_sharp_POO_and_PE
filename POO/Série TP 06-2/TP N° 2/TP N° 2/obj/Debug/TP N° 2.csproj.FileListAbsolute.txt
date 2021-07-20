@@ -1,0 +1,14 @@
+C:\Users\Walid Jennani\source\repos\TP N° 2\TP N° 2\obj\Debug\TP N° 2.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\source\repos\TP N° 2\TP N° 2\obj\Debug\TP N° 2.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\source\repos\TP N° 2\TP N° 2\bin\Debug\TP N° 2.exe.config
+C:\Users\Walid Jennani\source\repos\TP N° 2\TP N° 2\bin\Debug\TP N° 2.exe
+C:\Users\Walid Jennani\source\repos\TP N° 2\TP N° 2\bin\Debug\TP N° 2.pdb
+C:\Users\Walid Jennani\source\repos\TP N° 2\TP N° 2\obj\Debug\TP N° 2.exe
+C:\Users\Walid Jennani\source\repos\TP N° 2\TP N° 2\obj\Debug\TP N° 2.pdb
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 2\TP N° 2\bin\Debug\TP N° 2.exe.config
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 2\TP N° 2\bin\Debug\TP N° 2.exe
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 2\TP N° 2\bin\Debug\TP N° 2.pdb
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 2\TP N° 2\obj\Debug\TP N° 2.csprojAssemblyReference.cache
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 2\TP N° 2\obj\Debug\TP N° 2.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 2\TP N° 2\obj\Debug\TP N° 2.exe
+C:\Users\Walid Jennani\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Série TP 06-2\TP N° 2\TP N° 2\obj\Debug\TP N° 2.pdb

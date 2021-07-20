@@ -1,0 +1,7 @@
+C:\Users\Walid Jennani\Contacts\Desktop\max\max\bin\Debug\max.exe.config
+C:\Users\Walid Jennani\Contacts\Desktop\max\max\bin\Debug\max.exe
+C:\Users\Walid Jennani\Contacts\Desktop\max\max\bin\Debug\max.pdb
+C:\Users\Walid Jennani\Contacts\Desktop\max\max\obj\Debug\max.csprojResolveAssemblyReference.cache
+C:\Users\Walid Jennani\Contacts\Desktop\max\max\obj\Debug\max.csproj.CoreCompileInputs.cache
+C:\Users\Walid Jennani\Contacts\Desktop\max\max\obj\Debug\max.exe
+C:\Users\Walid Jennani\Contacts\Desktop\max\max\obj\Debug\max.pdb
